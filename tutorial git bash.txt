@@ -18,4 +18,4 @@ git push
 //KETIKA ADA NOTIF src refspec master does not match any//
 git add .
 git commit -m "pesan"
-git push origin HEAD:master
+git push origin HEAD:master / bisa menggunakan git push --set-upstream origin master
